@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLzLSy1+Xi0EuLVm04gyRgc7xJZ5HT5S5TBbv2/xGfAyXhXFTTyrevJQqi480JrAgbK+PvY6VejAJJZDNHjnkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\source\\repos\\CardGame\\CardGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

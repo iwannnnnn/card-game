@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\CardGame\obj\Debug\netstandard2.0\CardGame.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\CardGame\obj\Debug\netstandard2.0\CardGame.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\CardGame\obj\Debug\netstandard2.0\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\CardGame\bin\Debug\netstandard2.0\CardGame.deps.json
+C:\Users\Korisnik\source\repos\CardGame\bin\Debug\netstandard2.0\CardGame.dll
+C:\Users\Korisnik\source\repos\CardGame\bin\Debug\netstandard2.0\CardGame.pdb
+C:\Users\Korisnik\source\repos\CardGame\obj\Debug\netstandard2.0\CardGame.dll
+C:\Users\Korisnik\source\repos\CardGame\obj\Debug\netstandard2.0\CardGame.pdb
+C:\Users\Korisnik\source\repos\CardGame\obj\Debug\netstandard2.0\CardGame.csprojAssemblyReference.cache

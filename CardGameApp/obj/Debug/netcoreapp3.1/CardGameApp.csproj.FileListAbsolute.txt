@@ -1,0 +1,16 @@
+C:\Users\Korisnik\source\repos\CardGameApp\obj\Debug\netcoreapp3.1\CardGameApp.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\CardGameApp\obj\Debug\netcoreapp3.1\CardGameApp.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\CardGameApp\obj\Debug\netcoreapp3.1\CardGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\CardGameApp\bin\Debug\netcoreapp3.1\CardGameApp.exe
+C:\Users\Korisnik\source\repos\CardGameApp\bin\Debug\netcoreapp3.1\CardGameApp.deps.json
+C:\Users\Korisnik\source\repos\CardGameApp\bin\Debug\netcoreapp3.1\CardGameApp.runtimeconfig.json
+C:\Users\Korisnik\source\repos\CardGameApp\bin\Debug\netcoreapp3.1\CardGameApp.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\CardGameApp\bin\Debug\netcoreapp3.1\CardGameApp.dll
+C:\Users\Korisnik\source\repos\CardGameApp\bin\Debug\netcoreapp3.1\CardGameApp.pdb
+C:\Users\Korisnik\source\repos\CardGameApp\bin\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\Korisnik\source\repos\CardGameApp\bin\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\Korisnik\source\repos\CardGameApp\obj\Debug\netcoreapp3.1\CardGameApp.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\CardGameApp\obj\Debug\netcoreapp3.1\CardGameApp.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\CardGameApp\obj\Debug\netcoreapp3.1\CardGameApp.dll
+C:\Users\Korisnik\source\repos\CardGameApp\obj\Debug\netcoreapp3.1\CardGameApp.pdb
+C:\Users\Korisnik\source\repos\CardGameApp\obj\Debug\netcoreapp3.1\CardGameApp.genruntimeconfig.cache
